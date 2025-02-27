@@ -9,7 +9,7 @@ const cars = [
     brand: 'VW',
     model: 'Fusca',
     year: 1978,
-    color: 'Preto',
+    color: 'Vermelho',
     image: require('@/assets/images/fusca.png'), // Substitua pela imagem correta
   },
   {
